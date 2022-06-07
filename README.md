@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @ChristianSouzaBrasil
-- 👀 I’m interested em a aprender mais sobre  linguagens de codigo..  
-- 🌱 I’m currently learning  cs50 
-a- 💞️ I’m looking to collaborate on  em projetos  em linguagem c, e Python
-- 📫 How to reach me  : whatsapp 55 11 999111546  instagram christian_souza.01
+🖐 - Hi, my name is Christian Souza, I've been working in digital for 3 years.
 
-<!---
-ChristianSouzaBrasil/ChristianSouzaBrasil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 - Skills:
+
+1️⃣ - Web designer in html, css, java Script and Wordpress.
+
+2️⃣ - Traffic Manager in Facebook Ads and Google Ads.
+
+3️⃣ - Digital Marketing Strategist, with specialties in Launches, sales funnel, brand recognition and sales optimization.
